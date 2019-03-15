@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../swift/src/com/facebook/swift/titan/iris/protocol/ClientOnlyDelta.java [titan_iris_swift]'" />
-    <option name="defaultScopeName" value="File '.../swift/src/com/facebook/swift/titan/iris/protocol/ClientOnlyDelta.java [titan_iris_swift]'" />
-    <option name="SEARCH_SCOPE" value="File '.../swift/src/com/facebook/swift/titan/iris/protocol/ClientOnlyDelta.java [titan_iris_swift]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
